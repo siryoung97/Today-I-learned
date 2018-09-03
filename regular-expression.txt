@@ -1,0 +1,18 @@
+Regular Expression
+definition: a sequence of characters that defines a search pattern 
+\ means the start 
+/ means the end 
+. means any character
+\d means any digit
+^.... starts
+() used to capture a group 
+[a-z] any character 
+[0-9] numbers 0 to 9
+(.*)  capture all 
+\s spacebar or whitespace
+* zero  or more repetitions 
++ one or more repetitions
+^...$ starts and end 
+...$ ends 
+[^]is used to express not 
+
